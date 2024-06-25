@@ -16,7 +16,7 @@ For simplicity, let's use a basic Node.js web server.
 Open a terminal and create a new directory for your project:
 
     mkdir docker-web-app
-    cd docker-web-app
+     cd docker-web-app
 
 3) Create a Node.js Server:
 Inside your project directory, create a file named server.js:
@@ -63,7 +63,7 @@ In the same directory, create a file named Dockerfile (no file extension) with t
 Build the Docker Image
 In your terminal, run the following command from your project directory (where Dockerfile is located):
 
-        d ocker build -t my-node-app .
+        docker build -t my-node-app .
 
 This command builds a Docker image named my-node-app using the Dockerfile in the current directory (.).
 
