@@ -19,6 +19,7 @@ Open a terminal and create a new directory for your project:
      cd docker-web-app
 
 3) Create a Node.js Server:
+
 Inside your project directory, create a file named server.js:
 
           const http = require('http');
