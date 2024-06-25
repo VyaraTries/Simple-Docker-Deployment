@@ -34,7 +34,7 @@ Inside your project directory, create a file named server.js:
             console.log(`Server running at http://localhost:${port}/`);
           });
 
-   4) Create a Dockerfile:
+4) Create a Dockerfile:
 In the same directory, create a file named Dockerfile (no file extension) with the following content:
 
           # Use an official Node.js runtime as a parent image
