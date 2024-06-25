@@ -60,6 +60,7 @@ In the same directory, create a file named Dockerfile (no file extension) with t
 
 
 5) Build and Run Your Docker Container
+
 Build the Docker Image
 In your terminal, run the following command from your project directory (where Dockerfile is located):
 
